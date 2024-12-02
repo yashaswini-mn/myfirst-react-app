@@ -1,0 +1,10 @@
+h1{
+    margin: 300px 400px;
+    font-size: 50px;
+    color:grey;
+}
+.img{
+    position: absolute;
+    right:100px;
+    margin:80px 30px;
+}
